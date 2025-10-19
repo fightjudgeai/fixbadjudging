@@ -1,0 +1,2 @@
+# fixbadjudging
+Fightjudge.ai kickstarter
